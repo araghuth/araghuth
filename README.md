@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!--START_SECTION:badges-->
 
-[![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png)](http://www.credly.com/badges/19d4e773-77c4-4718-a5f8-9596da99fed3 "Microsoft Certified: Azure Fundamentals")
+[![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/19d4e773-77c4-4718-a5f8-9596da99fed3 "Microsoft Certified: Azure Fundamentals")
 [![Chatbot Building Essentials](https://images.credly.com/size/110x110/images/2a334906-fff1-4047-bcd9-be94347d0dca/Chatbot_Building_Essentials_Foundational.png)](http://www.credly.com/badges/b607956d-4819-4f7c-8cc1-ae4a0f0fedb8 "Chatbot Building Essentials")
 [![Artificial Intelligence Foundations Specialization](https://images.credly.com/size/110x110/images/4b79cc62-d398-4d20-8a8b-ac15335ccc04/AI_Foundations_Specialization.png)](http://www.credly.com/badges/586996e0-d2c3-4dd1-8226-b7ad19ef2e1d "Artificial Intelligence Foundations Specialization")
 [![Applied Data Science Specialization](https://images.credly.com/size/110x110/images/4a5f4849-54ae-461f-97ad-cb9c9a04eb63/Adv_Data_Science_Specialization.png)](http://www.credly.com/badges/8c776649-66b3-4116-9d64-e45f9fe6b7a7 "Applied Data Science Specialization")
